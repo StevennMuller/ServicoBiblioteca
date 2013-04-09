@@ -6,7 +6,7 @@ import java.util.List;
 import com.gargoylesoftware.htmlunit.Page;
 
 public class ParserDetalhe {
-	Page page;
+	private Page page;
 
 	public ParserDetalhe(Page page) {
 		this.page = page;
